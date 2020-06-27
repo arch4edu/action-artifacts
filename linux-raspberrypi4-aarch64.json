@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 9643868,
+      "node_id": "MDg6QXJ0aWZhY3Q5NjQzODY4",
+      "name": "linux-raspberrypi4-aarch64",
+      "size_in_bytes": 39875448,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643868",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643868/zip",
+      "expired": false,
+      "created_at": "2020-06-27T09:08:55Z",
+      "updated_at": "2020-06-27T09:08:56Z"
+    },
+    {
+      "id": 9643869,
+      "node_id": "MDg6QXJ0aWZhY3Q5NjQzODY5",
+      "name": "linux-raspberrypi4-aarch64.a5f0a775-d84b-4b50-a001-49f07d48362c",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643869",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643869/zip",
+      "expired": false,
+      "created_at": "2020-06-27T09:08:55Z",
+      "updated_at": "2020-06-27T09:08:56Z"
+    },
+    {
+      "id": 9643870,
+      "node_id": "MDg6QXJ0aWZhY3Q5NjQzODcw",
+      "name": "linux-raspberrypi4-aarch64.log",
+      "size_in_bytes": 0,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643870",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643870/zip",
+      "expired": false,
+      "created_at": "2020-06-27T09:08:55Z",
+      "updated_at": "2020-06-27T09:08:56Z"
+    },
+    {
+      "id": 9643871,
+      "node_id": "MDg6QXJ0aWZhY3Q5NjQzODcx",
+      "name": "linux-raspberrypi4-aarch64.patch",
+      "size_in_bytes": 633,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643871",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/9643871/zip",
+      "expired": false,
+      "created_at": "2020-06-27T09:08:55Z",
+      "updated_at": "2020-06-27T09:08:56Z"
+    }
+  ]
+}
