@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 9826510,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2NTEw",
+      "name": "python-pigpio-armv7h",
+      "size_in_bytes": 413418,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826510",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826510/zip",
+      "expired": false,
+      "created_at": "2020-06-30T05:06:31Z",
+      "updated_at": "2020-06-30T05:06:32Z"
+    },
+    {
+      "id": 9826511,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2NTEx",
+      "name": "python-pigpio-armv7h.98e52a2d-509d-4aef-9421-98ff0ec157da",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826511",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826511/zip",
+      "expired": false,
+      "created_at": "2020-06-30T05:06:31Z",
+      "updated_at": "2020-06-30T05:06:32Z"
+    },
+    {
+      "id": 9826512,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2NTEy",
+      "name": "python-pigpio-armv7h.log",
+      "size_in_bytes": 12223,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826512",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826512/zip",
+      "expired": false,
+      "created_at": "2020-06-30T05:06:31Z",
+      "updated_at": "2020-06-30T05:06:32Z"
+    },
+    {
+      "id": 9826513,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2NTEz",
+      "name": "python-pigpio-armv7h.patch",
+      "size_in_bytes": 1089,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826513",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826513/zip",
+      "expired": false,
+      "created_at": "2020-06-30T05:06:31Z",
+      "updated_at": "2020-06-30T05:06:32Z"
+    }
+  ]
+}
