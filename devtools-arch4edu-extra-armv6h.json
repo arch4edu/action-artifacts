@@ -2,48 +2,48 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 9778656,
-      "node_id": "MDg6QXJ0aWZhY3Q5Nzc4NjU2",
+      "id": 9826203,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2MjAz",
       "name": "devtools-arch4edu-extra-armv6h",
-      "size_in_bytes": 6963,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778656",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778656/zip",
+      "size_in_bytes": 6962,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826203",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826203/zip",
       "expired": false,
-      "created_at": "2020-06-29T17:04:03Z",
-      "updated_at": "2020-06-29T17:04:04Z"
+      "created_at": "2020-06-30T04:59:42Z",
+      "updated_at": "2020-06-30T04:59:44Z"
     },
     {
-      "id": 9778657,
-      "node_id": "MDg6QXJ0aWZhY3Q5Nzc4NjU3",
-      "name": "devtools-arch4edu-extra-armv6h.3beca061-0da4-413a-92fd-a24c6c99f8fc",
+      "id": 9826204,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2MjA0",
+      "name": "devtools-arch4edu-extra-armv6h.755fd65a-5a81-4c27-a374-d8902eca0b7e",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778657",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778657/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826204",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826204/zip",
       "expired": false,
-      "created_at": "2020-06-29T17:04:03Z",
-      "updated_at": "2020-06-29T17:04:04Z"
+      "created_at": "2020-06-30T04:59:42Z",
+      "updated_at": "2020-06-30T04:59:44Z"
     },
     {
-      "id": 9778658,
-      "node_id": "MDg6QXJ0aWZhY3Q5Nzc4NjU4",
+      "id": 9826205,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2MjA1",
       "name": "devtools-arch4edu-extra-armv6h.log",
-      "size_in_bytes": 20688,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778658",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778658/zip",
+      "size_in_bytes": 18507,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826205",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826205/zip",
       "expired": false,
-      "created_at": "2020-06-29T17:04:03Z",
-      "updated_at": "2020-06-29T17:04:04Z"
+      "created_at": "2020-06-30T04:59:42Z",
+      "updated_at": "2020-06-30T04:59:44Z"
     },
     {
-      "id": 9778659,
-      "node_id": "MDg6QXJ0aWZhY3Q5Nzc4NjU5",
+      "id": 9826206,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2MjA2",
       "name": "devtools-arch4edu-extra-armv6h.patch",
       "size_in_bytes": 795,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778659",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9778659/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826206",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826206/zip",
       "expired": false,
-      "created_at": "2020-06-29T17:04:03Z",
-      "updated_at": "2020-06-29T17:04:04Z"
+      "created_at": "2020-06-30T04:59:42Z",
+      "updated_at": "2020-06-30T04:59:44Z"
     }
   ]
 }
