@@ -2,48 +2,48 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 9734487,
-      "node_id": "MDg6QXJ0aWZhY3Q5NzM0NDg3",
+      "id": 9826960,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2OTYw",
       "name": "rpiusbboot-git-armv6h",
-      "size_in_bytes": 219063,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734487",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734487/zip",
+      "size_in_bytes": 219068,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826960",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826960/zip",
       "expired": false,
-      "created_at": "2020-06-29T07:09:09Z",
-      "updated_at": "2020-06-29T07:09:10Z"
+      "created_at": "2020-06-30T05:17:19Z",
+      "updated_at": "2020-06-30T05:17:20Z"
     },
     {
-      "id": 9734488,
-      "node_id": "MDg6QXJ0aWZhY3Q5NzM0NDg4",
-      "name": "rpiusbboot-git-armv6h.6e60df54-ab1c-4b03-9c94-5ca41c003fb2",
+      "id": 9826961,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2OTYx",
+      "name": "rpiusbboot-git-armv6h.7a0b4467-e81e-4efa-bcc3-d53f767f9082",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734488",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734488/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826961",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826961/zip",
       "expired": false,
-      "created_at": "2020-06-29T07:09:09Z",
-      "updated_at": "2020-06-29T07:09:10Z"
+      "created_at": "2020-06-30T05:17:19Z",
+      "updated_at": "2020-06-30T05:17:20Z"
     },
     {
-      "id": 9734489,
-      "node_id": "MDg6QXJ0aWZhY3Q5NzM0NDg5",
+      "id": 9826962,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2OTYy",
       "name": "rpiusbboot-git-armv6h.log",
-      "size_in_bytes": 10134,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734489",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734489/zip",
+      "size_in_bytes": 10053,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826962",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826962/zip",
       "expired": false,
-      "created_at": "2020-06-29T07:09:09Z",
-      "updated_at": "2020-06-29T07:09:10Z"
+      "created_at": "2020-06-30T05:17:19Z",
+      "updated_at": "2020-06-30T05:17:20Z"
     },
     {
-      "id": 9734490,
-      "node_id": "MDg6QXJ0aWZhY3Q5NzM0NDkw",
+      "id": 9826963,
+      "node_id": "MDg6QXJ0aWZhY3Q5ODI2OTYz",
       "name": "rpiusbboot-git-armv6h.patch",
-      "size_in_bytes": 671,
-      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734490",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9734490/zip",
+      "size_in_bytes": 705,
+      "url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826963",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-armv7h/actions/artifacts/9826963/zip",
       "expired": false,
-      "created_at": "2020-06-29T07:09:09Z",
-      "updated_at": "2020-06-29T07:09:10Z"
+      "created_at": "2020-06-30T05:17:19Z",
+      "updated_at": "2020-06-30T05:17:20Z"
     }
   ]
 }
