@@ -2,48 +2,48 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 10495204,
-      "node_id": "MDg6QXJ0aWZhY3QxMDQ5NTIwNA==",
+      "id": 10727886,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcyNzg4Ng==",
       "name": "nvidia-container-toolkit",
-      "size_in_bytes": 926304,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495204",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495204/zip",
+      "size_in_bytes": 923569,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727886",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727886/zip",
       "expired": false,
-      "created_at": "2020-07-07T18:27:23Z",
-      "updated_at": "2020-07-07T18:27:24Z"
+      "created_at": "2020-07-09T20:12:54Z",
+      "updated_at": "2020-07-09T20:12:56Z"
     },
     {
-      "id": 10495205,
-      "node_id": "MDg6QXJ0aWZhY3QxMDQ5NTIwNQ==",
-      "name": "nvidia-container-toolkit.1b65f328-b05a-47a9-b152-68bb4a94c898",
+      "id": 10727887,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcyNzg4Nw==",
+      "name": "nvidia-container-toolkit.ca8835fe-184b-42d7-a24f-f7266975c4e3",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495205",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495205/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727887",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727887/zip",
       "expired": false,
-      "created_at": "2020-07-07T18:27:23Z",
-      "updated_at": "2020-07-07T18:27:24Z"
+      "created_at": "2020-07-09T20:12:54Z",
+      "updated_at": "2020-07-09T20:12:56Z"
     },
     {
-      "id": 10495206,
-      "node_id": "MDg6QXJ0aWZhY3QxMDQ5NTIwNg==",
+      "id": 10727888,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcyNzg4OA==",
       "name": "nvidia-container-toolkit.log",
       "size_in_bytes": 26461,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495206",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495206/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727888",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727888/zip",
       "expired": false,
-      "created_at": "2020-07-07T18:27:23Z",
-      "updated_at": "2020-07-07T18:27:24Z"
+      "created_at": "2020-07-09T20:12:54Z",
+      "updated_at": "2020-07-09T20:12:56Z"
     },
     {
-      "id": 10495207,
-      "node_id": "MDg6QXJ0aWZhY3QxMDQ5NTIwNw==",
+      "id": 10727889,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcyNzg4OQ==",
       "name": "nvidia-container-toolkit.patch",
-      "size_in_bytes": 1089,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495207",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10495207/zip",
+      "size_in_bytes": 1164,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727889",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10727889/zip",
       "expired": false,
-      "created_at": "2020-07-07T18:27:23Z",
-      "updated_at": "2020-07-07T18:27:24Z"
+      "created_at": "2020-07-09T20:12:54Z",
+      "updated_at": "2020-07-09T20:12:56Z"
     }
   ]
 }
