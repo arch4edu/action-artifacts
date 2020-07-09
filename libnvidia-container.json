@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 10711065,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcxMTA2NQ==",
+      "name": "libnvidia-container",
+      "size_in_bytes": 85022,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711065",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711065/zip",
+      "expired": false,
+      "created_at": "2020-07-09T16:54:27Z",
+      "updated_at": "2020-07-09T16:54:28Z"
+    },
+    {
+      "id": 10711066,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcxMTA2Ng==",
+      "name": "libnvidia-container.7979a32f-8a6d-4d1e-ada4-81139def2052",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711066",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711066/zip",
+      "expired": false,
+      "created_at": "2020-07-09T16:54:27Z",
+      "updated_at": "2020-07-09T16:54:28Z"
+    },
+    {
+      "id": 10711067,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcxMTA2Nw==",
+      "name": "libnvidia-container.log",
+      "size_in_bytes": 232742,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711067",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711067/zip",
+      "expired": false,
+      "created_at": "2020-07-09T16:54:27Z",
+      "updated_at": "2020-07-09T16:54:28Z"
+    },
+    {
+      "id": 10711068,
+      "node_id": "MDg6QXJ0aWZhY3QxMDcxMTA2OA==",
+      "name": "libnvidia-container.patch",
+      "size_in_bytes": 1244,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711068",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10711068/zip",
+      "expired": false,
+      "created_at": "2020-07-09T16:54:27Z",
+      "updated_at": "2020-07-09T16:54:28Z"
+    }
+  ]
+}
