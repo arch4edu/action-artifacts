@@ -1,0 +1,38 @@
+{
+  "total_count": 3,
+  "artifacts": [
+    {
+      "id": 10861449,
+      "node_id": "MDg6QXJ0aWZhY3QxMDg2MTQ0OQ==",
+      "name": "android-platform",
+      "size_in_bytes": 39182178,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861449",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861449/zip",
+      "expired": false,
+      "created_at": "2020-07-11T09:50:22Z",
+      "updated_at": "2020-07-11T09:50:23Z"
+    },
+    {
+      "id": 10861450,
+      "node_id": "MDg6QXJ0aWZhY3QxMDg2MTQ1MA==",
+      "name": "android-platform.f052018b-c267-429d-9b7c-767eeac3db54",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861450",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861450/zip",
+      "expired": false,
+      "created_at": "2020-07-11T09:50:22Z",
+      "updated_at": "2020-07-11T09:50:23Z"
+    },
+    {
+      "id": 10861451,
+      "node_id": "MDg6QXJ0aWZhY3QxMDg2MTQ1MQ==",
+      "name": "android-platform.log",
+      "size_in_bytes": 24223,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861451",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/10861451/zip",
+      "expired": false,
+      "created_at": "2020-07-11T09:50:22Z",
+      "updated_at": "2020-07-11T09:50:23Z"
+    }
+  ]
+}
