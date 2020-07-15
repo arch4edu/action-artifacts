@@ -1,38 +1,49 @@
 {
-  "total_count": 3,
+  "total_count": 4,
   "artifacts": [
     {
-      "id": 11058987,
-      "node_id": "MDg6QXJ0aWZhY3QxMTA1ODk4Nw==",
+      "id": 11213521,
+      "node_id": "MDg6QXJ0aWZhY3QxMTIxMzUyMQ==",
       "name": "linux-raspberrypi4-aarch64",
-      "size_in_bytes": 39870715,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058987",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058987/zip",
+      "size_in_bytes": 39870521,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213521",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213521/zip",
       "expired": false,
-      "created_at": "2020-07-14T09:17:25Z",
-      "updated_at": "2020-07-14T09:17:26Z"
+      "created_at": "2020-07-15T18:39:02Z",
+      "updated_at": "2020-07-15T18:39:03Z"
     },
     {
-      "id": 11058988,
-      "node_id": "MDg6QXJ0aWZhY3QxMTA1ODk4OA==",
-      "name": "linux-raspberrypi4-aarch64.624ad8ab-602e-444e-91df-9a011f77ca35",
+      "id": 11213522,
+      "node_id": "MDg6QXJ0aWZhY3QxMTIxMzUyMg==",
+      "name": "linux-raspberrypi4-aarch64.3faec986-b2bb-4e18-b614-0e6287e7fb58",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058988",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058988/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213522",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213522/zip",
       "expired": false,
-      "created_at": "2020-07-14T09:17:25Z",
-      "updated_at": "2020-07-14T09:17:26Z"
+      "created_at": "2020-07-15T18:39:02Z",
+      "updated_at": "2020-07-15T18:39:03Z"
     },
     {
-      "id": 11058989,
-      "node_id": "MDg6QXJ0aWZhY3QxMTA1ODk4OQ==",
+      "id": 11213523,
+      "node_id": "MDg6QXJ0aWZhY3QxMTIxMzUyMw==",
       "name": "linux-raspberrypi4-aarch64.log",
-      "size_in_bytes": 620962,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058989",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11058989/zip",
+      "size_in_bytes": 622071,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213523",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213523/zip",
       "expired": false,
-      "created_at": "2020-07-14T09:17:25Z",
-      "updated_at": "2020-07-14T09:17:26Z"
+      "created_at": "2020-07-15T18:39:02Z",
+      "updated_at": "2020-07-15T18:39:03Z"
+    },
+    {
+      "id": 11213524,
+      "node_id": "MDg6QXJ0aWZhY3QxMTIxMzUyNA==",
+      "name": "linux-raspberrypi4-aarch64.patch",
+      "size_in_bytes": 3457,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213524",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11213524/zip",
+      "expired": false,
+      "created_at": "2020-07-15T18:39:02Z",
+      "updated_at": "2020-07-15T18:39:03Z"
     }
   ]
 }
