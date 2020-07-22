@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 11816503,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjUwMw==",
+      "name": "wiringpi-aarch64",
+      "size_in_bytes": 74602,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816503",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816503/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:45:49Z",
+      "updated_at": "2020-07-22T07:45:50Z"
+    },
+    {
+      "id": 11816504,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjUwNA==",
+      "name": "wiringpi-aarch64.ba27eb65-6156-442f-a82f-4b458245537e",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816504",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816504/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:45:49Z",
+      "updated_at": "2020-07-22T07:45:50Z"
+    },
+    {
+      "id": 11816505,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjUwNQ==",
+      "name": "wiringpi-aarch64.log",
+      "size_in_bytes": 14491,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816505",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816505/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:45:49Z",
+      "updated_at": "2020-07-22T07:45:50Z"
+    },
+    {
+      "id": 11816506,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjUwNg==",
+      "name": "wiringpi-aarch64.patch",
+      "size_in_bytes": 780,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816506",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816506/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:45:49Z",
+      "updated_at": "2020-07-22T07:45:50Z"
+    }
+  ]
+}
