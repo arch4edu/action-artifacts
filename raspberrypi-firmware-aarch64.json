@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 11816225,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjIyNQ==",
+      "name": "raspberrypi-firmware-aarch64",
+      "size_in_bytes": 492358,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816225",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816225/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:42:23Z",
+      "updated_at": "2020-07-22T07:42:24Z"
+    },
+    {
+      "id": 11816226,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjIyNg==",
+      "name": "raspberrypi-firmware-aarch64.5266689b-905b-4a19-9ae8-301d1c842254",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816226",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816226/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:42:23Z",
+      "updated_at": "2020-07-22T07:42:24Z"
+    },
+    {
+      "id": 11816227,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjIyNw==",
+      "name": "raspberrypi-firmware-aarch64.log",
+      "size_in_bytes": 165374,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816227",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816227/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:42:23Z",
+      "updated_at": "2020-07-22T07:42:24Z"
+    },
+    {
+      "id": 11816228,
+      "node_id": "MDg6QXJ0aWZhY3QxMTgxNjIyOA==",
+      "name": "raspberrypi-firmware-aarch64.patch",
+      "size_in_bytes": 772,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816228",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/11816228/zip",
+      "expired": false,
+      "created_at": "2020-07-22T07:42:23Z",
+      "updated_at": "2020-07-22T07:42:24Z"
+    }
+  ]
+}
