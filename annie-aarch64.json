@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 12131297,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMTI5Nw==",
+      "name": "annie-aarch64",
+      "size_in_bytes": 6556829,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131297",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131297/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:13:21Z",
+      "updated_at": "2020-07-25T05:13:22Z"
+    },
+    {
+      "id": 12131298,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMTI5OA==",
+      "name": "annie-aarch64.d674a3ea-49c1-4222-a52a-dc130842a341",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131298",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131298/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:13:21Z",
+      "updated_at": "2020-07-25T05:13:22Z"
+    },
+    {
+      "id": 12131299,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMTI5OQ==",
+      "name": "annie-aarch64.log",
+      "size_in_bytes": 38170,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131299",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131299/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:13:21Z",
+      "updated_at": "2020-07-25T05:13:22Z"
+    },
+    {
+      "id": 12131300,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMTMwMA==",
+      "name": "annie-aarch64.patch",
+      "size_in_bytes": 1058,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131300",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12131300/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:13:21Z",
+      "updated_at": "2020-07-25T05:13:22Z"
+    }
+  ]
+}
