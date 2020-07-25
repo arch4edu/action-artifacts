@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 12132098,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjA5OA==",
+      "name": "annie-armv7h",
+      "size_in_bytes": 6606332,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132098",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132098/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:31:18Z",
+      "updated_at": "2020-07-25T05:31:19Z"
+    },
+    {
+      "id": 12132099,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjA5OQ==",
+      "name": "annie-armv7h.99be2a8a-9e0c-4b85-bbb0-af289cb1eea3",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132099",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132099/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:31:18Z",
+      "updated_at": "2020-07-25T05:31:19Z"
+    },
+    {
+      "id": 12132100,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjEwMA==",
+      "name": "annie-armv7h.log",
+      "size_in_bytes": 47768,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132100",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132100/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:31:18Z",
+      "updated_at": "2020-07-25T05:31:19Z"
+    },
+    {
+      "id": 12132101,
+      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjEwMQ==",
+      "name": "annie-armv7h.patch",
+      "size_in_bytes": 1051,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132101",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132101/zip",
+      "expired": false,
+      "created_at": "2020-07-25T05:31:18Z",
+      "updated_at": "2020-07-25T05:31:19Z"
+    }
+  ]
+}
