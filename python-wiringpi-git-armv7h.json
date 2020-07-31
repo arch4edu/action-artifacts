@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 12716983,
+      "node_id": "MDg6QXJ0aWZhY3QxMjcxNjk4Mw==",
+      "name": "python-wiringpi-git-armv7h",
+      "size_in_bytes": 74192,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716983",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716983/zip",
+      "expired": false,
+      "created_at": "2020-07-31T07:55:36Z",
+      "updated_at": "2020-07-31T07:55:36Z"
+    },
+    {
+      "id": 12716984,
+      "node_id": "MDg6QXJ0aWZhY3QxMjcxNjk4NA==",
+      "name": "python-wiringpi-git-armv7h.081136c3-3e10-47f5-ad45-1e839fa56ed3",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716984",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716984/zip",
+      "expired": false,
+      "created_at": "2020-07-31T07:55:36Z",
+      "updated_at": "2020-07-31T07:55:36Z"
+    },
+    {
+      "id": 12716985,
+      "node_id": "MDg6QXJ0aWZhY3QxMjcxNjk4NQ==",
+      "name": "python-wiringpi-git-armv7h.log",
+      "size_in_bytes": 50929,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716985",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716985/zip",
+      "expired": false,
+      "created_at": "2020-07-31T07:55:36Z",
+      "updated_at": "2020-07-31T07:55:37Z"
+    },
+    {
+      "id": 12716986,
+      "node_id": "MDg6QXJ0aWZhY3QxMjcxNjk4Ng==",
+      "name": "python-wiringpi-git-armv7h.patch",
+      "size_in_bytes": 780,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716986",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12716986/zip",
+      "expired": false,
+      "created_at": "2020-07-31T07:55:36Z",
+      "updated_at": "2020-07-31T07:55:37Z"
+    }
+  ]
+}
