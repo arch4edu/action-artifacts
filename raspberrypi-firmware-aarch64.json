@@ -2,48 +2,48 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 12046248,
-      "node_id": "MDg6QXJ0aWZhY3QxMjA0NjI0OA==",
+      "id": 14050806,
+      "node_id": "MDg6QXJ0aWZhY3QxNDA1MDgwNg==",
       "name": "raspberrypi-firmware-aarch64",
-      "size_in_bytes": 492458,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046248",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046248/zip",
+      "size_in_bytes": 471810,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050806",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050806/zip",
       "expired": false,
-      "created_at": "2020-07-24T09:49:43Z",
-      "updated_at": "2020-07-24T09:49:44Z"
+      "created_at": "2020-08-13T19:41:43Z",
+      "updated_at": "2020-08-13T19:41:43Z"
     },
     {
-      "id": 12046249,
-      "node_id": "MDg6QXJ0aWZhY3QxMjA0NjI0OQ==",
-      "name": "raspberrypi-firmware-aarch64.bf15d008-ef8d-49a3-97b7-f17cec88711f",
+      "id": 14050807,
+      "node_id": "MDg6QXJ0aWZhY3QxNDA1MDgwNw==",
+      "name": "raspberrypi-firmware-aarch64.f667608a-8699-4f5d-819f-299d0de2f8e0",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046249",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046249/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050807",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050807/zip",
       "expired": false,
-      "created_at": "2020-07-24T09:49:43Z",
-      "updated_at": "2020-07-24T09:49:44Z"
+      "created_at": "2020-08-13T19:41:43Z",
+      "updated_at": "2020-08-13T19:41:43Z"
     },
     {
-      "id": 12046250,
-      "node_id": "MDg6QXJ0aWZhY3QxMjA0NjI1MA==",
+      "id": 14050808,
+      "node_id": "MDg6QXJ0aWZhY3QxNDA1MDgwOA==",
       "name": "raspberrypi-firmware-aarch64.log",
-      "size_in_bytes": 170931,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046250",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046250/zip",
+      "size_in_bytes": 146905,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050808",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050808/zip",
       "expired": false,
-      "created_at": "2020-07-24T09:49:43Z",
-      "updated_at": "2020-07-24T09:49:44Z"
+      "created_at": "2020-08-13T19:41:43Z",
+      "updated_at": "2020-08-13T19:41:43Z"
     },
     {
-      "id": 12046251,
-      "node_id": "MDg6QXJ0aWZhY3QxMjA0NjI1MQ==",
+      "id": 14050809,
+      "node_id": "MDg6QXJ0aWZhY3QxNDA1MDgwOQ==",
       "name": "raspberrypi-firmware-aarch64.patch",
-      "size_in_bytes": 772,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046251",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12046251/zip",
+      "size_in_bytes": 1371,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050809",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/14050809/zip",
       "expired": false,
-      "created_at": "2020-07-24T09:49:43Z",
-      "updated_at": "2020-07-24T09:49:44Z"
+      "created_at": "2020-08-13T19:41:43Z",
+      "updated_at": "2020-08-13T19:41:43Z"
     }
   ]
 }
