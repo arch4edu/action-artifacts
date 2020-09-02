@@ -2,48 +2,48 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 15533332,
-      "node_id": "MDg6QXJ0aWZhY3QxNTUzMzMzMg==",
+      "id": 16194403,
+      "node_id": "MDg6QXJ0aWZhY3QxNjE5NDQwMw==",
       "name": "kiwiirc",
-      "size_in_bytes": 1823550,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533332",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533332/zip",
+      "size_in_bytes": 1823032,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194403",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194403/zip",
       "expired": false,
-      "created_at": "2020-08-27T16:23:22Z",
-      "updated_at": "2020-08-27T16:23:23Z"
+      "created_at": "2020-09-02T16:27:08Z",
+      "updated_at": "2020-09-02T16:27:09Z"
     },
     {
-      "id": 15533333,
-      "node_id": "MDg6QXJ0aWZhY3QxNTUzMzMzMw==",
-      "name": "kiwiirc.31d0c25c-dfb2-42c9-acc8-5bdd3e2f9900",
+      "id": 16194404,
+      "node_id": "MDg6QXJ0aWZhY3QxNjE5NDQwNA==",
+      "name": "kiwiirc.75b735c7-4539-4c38-ae0b-dc6de27c9b1d",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533333",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533333/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194404",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194404/zip",
       "expired": false,
-      "created_at": "2020-08-27T16:23:22Z",
-      "updated_at": "2020-08-27T16:23:23Z"
+      "created_at": "2020-09-02T16:27:08Z",
+      "updated_at": "2020-09-02T16:27:09Z"
     },
     {
-      "id": 15533334,
-      "node_id": "MDg6QXJ0aWZhY3QxNTUzMzMzNA==",
+      "id": 16194405,
+      "node_id": "MDg6QXJ0aWZhY3QxNjE5NDQwNQ==",
       "name": "kiwiirc.log",
-      "size_in_bytes": 16936,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533334",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533334/zip",
+      "size_in_bytes": 16934,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194405",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194405/zip",
       "expired": false,
-      "created_at": "2020-08-27T16:23:22Z",
-      "updated_at": "2020-08-27T16:23:23Z"
+      "created_at": "2020-09-02T16:27:08Z",
+      "updated_at": "2020-09-02T16:27:09Z"
     },
     {
-      "id": 15533336,
-      "node_id": "MDg6QXJ0aWZhY3QxNTUzMzMzNg==",
+      "id": 16194406,
+      "node_id": "MDg6QXJ0aWZhY3QxNjE5NDQwNg==",
       "name": "kiwiirc.patch",
-      "size_in_bytes": 689,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533336",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/15533336/zip",
+      "size_in_bytes": 688,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194406",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16194406/zip",
       "expired": false,
-      "created_at": "2020-08-27T16:23:22Z",
-      "updated_at": "2020-08-27T16:23:23Z"
+      "created_at": "2020-09-02T16:27:08Z",
+      "updated_at": "2020-09-02T16:27:09Z"
     }
   ]
 }
