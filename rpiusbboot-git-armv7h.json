@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 16335123,
+      "node_id": "MDg6QXJ0aWZhY3QxNjMzNTEyMw==",
+      "name": "rpiusbboot-git-armv7h",
+      "size_in_bytes": 194012,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335123",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335123/zip",
+      "expired": false,
+      "created_at": "2020-09-03T16:29:21Z",
+      "updated_at": "2020-09-03T16:29:21Z"
+    },
+    {
+      "id": 16335124,
+      "node_id": "MDg6QXJ0aWZhY3QxNjMzNTEyNA==",
+      "name": "rpiusbboot-git-armv7h.57e29d90-4408-47af-bc97-584098b7f4e8",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335124",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335124/zip",
+      "expired": false,
+      "created_at": "2020-09-03T16:29:21Z",
+      "updated_at": "2020-09-03T16:29:21Z"
+    },
+    {
+      "id": 16335125,
+      "node_id": "MDg6QXJ0aWZhY3QxNjMzNTEyNQ==",
+      "name": "rpiusbboot-git-armv7h.log",
+      "size_in_bytes": 15333,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335125",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335125/zip",
+      "expired": false,
+      "created_at": "2020-09-03T16:29:21Z",
+      "updated_at": "2020-09-03T16:29:21Z"
+    },
+    {
+      "id": 16335126,
+      "node_id": "MDg6QXJ0aWZhY3QxNjMzNTEyNg==",
+      "name": "rpiusbboot-git-armv7h.patch",
+      "size_in_bytes": 730,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335126",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16335126/zip",
+      "expired": false,
+      "created_at": "2020-09-03T16:29:21Z",
+      "updated_at": "2020-09-03T16:29:21Z"
+    }
+  ]
+}
