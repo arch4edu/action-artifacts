@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 16711292,
+      "node_id": "MDg6QXJ0aWZhY3QxNjcxMTI5Mg==",
+      "name": "jabref",
+      "size_in_bytes": 127322626,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711292",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711292/zip",
+      "expired": false,
+      "created_at": "2020-09-07T17:35:59Z",
+      "updated_at": "2020-09-07T17:36:00Z"
+    },
+    {
+      "id": 16711293,
+      "node_id": "MDg6QXJ0aWZhY3QxNjcxMTI5Mw==",
+      "name": "jabref.7eb96858-5305-4e89-bce0-a8048988243c",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711293",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711293/zip",
+      "expired": false,
+      "created_at": "2020-09-07T17:35:59Z",
+      "updated_at": "2020-09-07T17:36:00Z"
+    },
+    {
+      "id": 16711294,
+      "node_id": "MDg6QXJ0aWZhY3QxNjcxMTI5NA==",
+      "name": "jabref.log",
+      "size_in_bytes": 31339,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711294",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711294/zip",
+      "expired": false,
+      "created_at": "2020-09-07T17:35:59Z",
+      "updated_at": "2020-09-07T17:36:00Z"
+    },
+    {
+      "id": 16711295,
+      "node_id": "MDg6QXJ0aWZhY3QxNjcxMTI5NQ==",
+      "name": "jabref.patch",
+      "size_in_bytes": 1159,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711295",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/16711295/zip",
+      "expired": false,
+      "created_at": "2020-09-07T17:35:59Z",
+      "updated_at": "2020-09-07T17:36:00Z"
+    }
+  ]
+}
