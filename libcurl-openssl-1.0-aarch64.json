@@ -2,48 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 16543013,
-      "node_id": "MDg6QXJ0aWZhY3QxNjU0MzAxMw==",
+      "id": 21061416,
+      "node_id": "MDg6QXJ0aWZhY3QyMTA2MTQxNg==",
       "name": "libcurl-openssl-1.0-aarch64",
-      "size_in_bytes": 257625,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543013",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543013/zip",
+      "size_in_bytes": 258482,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061416",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061416/zip",
       "expired": false,
-      "created_at": "2020-09-05T16:23:47Z",
-      "updated_at": "2020-09-05T16:23:47Z"
+      "created_at": "2020-10-11T16:42:52Z",
+      "updated_at": "2020-10-11T16:42:53Z",
+      "expires_at": "2021-01-09T16:42:35Z"
     },
     {
-      "id": 16543014,
-      "node_id": "MDg6QXJ0aWZhY3QxNjU0MzAxNA==",
-      "name": "libcurl-openssl-1.0-aarch64.cd0090be-fb59-497d-8856-7267f064f92c",
+      "id": 21061417,
+      "node_id": "MDg6QXJ0aWZhY3QyMTA2MTQxNw==",
+      "name": "libcurl-openssl-1.0-aarch64.e42df9b9-3227-423e-91ee-e13dcd9e70ff",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543014",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543014/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061417",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061417/zip",
       "expired": false,
-      "created_at": "2020-09-05T16:23:47Z",
-      "updated_at": "2020-09-05T16:23:47Z"
+      "created_at": "2020-10-11T16:42:52Z",
+      "updated_at": "2020-10-11T16:42:53Z",
+      "expires_at": "2021-01-09T16:42:32Z"
     },
     {
-      "id": 16543015,
-      "node_id": "MDg6QXJ0aWZhY3QxNjU0MzAxNQ==",
+      "id": 21061418,
+      "node_id": "MDg6QXJ0aWZhY3QyMTA2MTQxOA==",
       "name": "libcurl-openssl-1.0-aarch64.log",
-      "size_in_bytes": 60720,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543015",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543015/zip",
+      "size_in_bytes": 70799,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061418",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061418/zip",
       "expired": false,
-      "created_at": "2020-09-05T16:23:47Z",
-      "updated_at": "2020-09-05T16:23:47Z"
+      "created_at": "2020-10-11T16:42:52Z",
+      "updated_at": "2020-10-11T16:42:53Z",
+      "expires_at": "2021-01-09T16:42:40Z"
     },
     {
-      "id": 16543016,
-      "node_id": "MDg6QXJ0aWZhY3QxNjU0MzAxNg==",
+      "id": 21061419,
+      "node_id": "MDg6QXJ0aWZhY3QyMTA2MTQxOQ==",
       "name": "libcurl-openssl-1.0-aarch64.patch",
-      "size_in_bytes": 753,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543016",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16543016/zip",
+      "size_in_bytes": 1437,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061419",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/21061419/zip",
       "expired": false,
-      "created_at": "2020-09-05T16:23:47Z",
-      "updated_at": "2020-09-05T16:23:47Z"
+      "created_at": "2020-10-11T16:42:52Z",
+      "updated_at": "2020-10-11T16:42:53Z",
+      "expires_at": "2021-01-09T16:42:39Z"
     }
   ]
 }
