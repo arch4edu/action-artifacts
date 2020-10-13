@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 21332580,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMzMjU4MA==",
+      "id": 21409329,
+      "node_id": "MDg6QXJ0aWZhY3QyMTQwOTMyOQ==",
       "name": "android-studio",
-      "size_in_bytes": 678138169,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332580",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332580/zip",
+      "size_in_bytes": 693890598,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409329",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409329/zip",
       "expired": false,
-      "created_at": "2020-10-13T08:22:47Z",
-      "updated_at": "2020-10-13T08:22:48Z",
-      "expires_at": "2021-01-11T08:19:31Z"
+      "created_at": "2020-10-13T16:29:30Z",
+      "updated_at": "2020-10-13T16:29:31Z",
+      "expires_at": "2021-01-11T16:26:06Z"
     },
     {
-      "id": 21332581,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMzMjU4MQ==",
-      "name": "android-studio.31cd0074-911f-4f74-a798-96f166c58aa1",
+      "id": 21409330,
+      "node_id": "MDg6QXJ0aWZhY3QyMTQwOTMzMA==",
+      "name": "android-studio.364af1ca-0500-459b-84c2-ba7b5abdf35b",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332581",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332581/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409330",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409330/zip",
       "expired": false,
-      "created_at": "2020-10-13T08:22:47Z",
-      "updated_at": "2020-10-13T08:22:48Z",
-      "expires_at": "2021-01-11T08:19:31Z"
+      "created_at": "2020-10-13T16:29:30Z",
+      "updated_at": "2020-10-13T16:29:31Z",
+      "expires_at": "2021-01-11T16:26:06Z"
     },
     {
-      "id": 21332582,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMzMjU4Mg==",
+      "id": 21409331,
+      "node_id": "MDg6QXJ0aWZhY3QyMTQwOTMzMQ==",
       "name": "android-studio.log",
-      "size_in_bytes": 27679,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332582",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332582/zip",
+      "size_in_bytes": 27765,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409331",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409331/zip",
       "expired": false,
-      "created_at": "2020-10-13T08:22:47Z",
-      "updated_at": "2020-10-13T08:22:48Z",
-      "expires_at": "2021-01-11T08:22:25Z"
+      "created_at": "2020-10-13T16:29:30Z",
+      "updated_at": "2020-10-13T16:29:31Z",
+      "expires_at": "2021-01-11T16:29:06Z"
     },
     {
-      "id": 21332583,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMzMjU4Mw==",
+      "id": 21409332,
+      "node_id": "MDg6QXJ0aWZhY3QyMTQwOTMzMg==",
       "name": "android-studio.patch",
-      "size_in_bytes": 1268,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332583",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21332583/zip",
+      "size_in_bytes": 1258,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409332",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21409332/zip",
       "expired": false,
-      "created_at": "2020-10-13T08:22:47Z",
-      "updated_at": "2020-10-13T08:22:48Z",
-      "expires_at": "2021-01-11T08:22:25Z"
+      "created_at": "2020-10-13T16:29:30Z",
+      "updated_at": "2020-10-13T16:29:31Z",
+      "expires_at": "2021-01-11T16:29:06Z"
     }
   ]
 }
