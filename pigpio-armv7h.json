@@ -1,0 +1,53 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 23481636,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTYzNg==",
+      "name": "pigpio-armv7h",
+      "size_in_bytes": 354310,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481636",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481636/zip",
+      "expired": false,
+      "created_at": "2020-10-27T16:57:59Z",
+      "updated_at": "2020-10-27T16:58:00Z",
+      "expires_at": "2021-01-25T16:57:42Z"
+    },
+    {
+      "id": 23481637,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTYzNw==",
+      "name": "pigpio-armv7h.d1c8e4d0-c76d-4e41-9c87-5a3bcc54816a",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481637",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481637/zip",
+      "expired": false,
+      "created_at": "2020-10-27T16:57:59Z",
+      "updated_at": "2020-10-27T16:58:00Z",
+      "expires_at": "2021-01-25T16:57:40Z"
+    },
+    {
+      "id": 23481638,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTYzOA==",
+      "name": "pigpio-armv7h.log",
+      "size_in_bytes": 12223,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481638",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481638/zip",
+      "expired": false,
+      "created_at": "2020-10-27T16:57:59Z",
+      "updated_at": "2020-10-27T16:58:00Z",
+      "expires_at": "2021-01-25T16:57:45Z"
+    },
+    {
+      "id": 23481639,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTYzOQ==",
+      "name": "pigpio-armv7h.patch",
+      "size_in_bytes": 1047,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481639",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481639/zip",
+      "expired": false,
+      "created_at": "2020-10-27T16:57:59Z",
+      "updated_at": "2020-10-27T16:58:00Z",
+      "expires_at": "2021-01-25T16:57:44Z"
+    }
+  ]
+}
