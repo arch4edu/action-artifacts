@@ -2,48 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 16207163,
-      "node_id": "MDg6QXJ0aWZhY3QxNjIwNzE2Mw==",
+      "id": 23510379,
+      "node_id": "MDg6QXJ0aWZhY3QyMzUxMDM3OQ==",
       "name": "yay-armv6h",
-      "size_in_bytes": 2227284,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207163",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207163/zip",
+      "size_in_bytes": 2235622,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510379",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510379/zip",
       "expired": false,
-      "created_at": "2020-09-02T18:14:20Z",
-      "updated_at": "2020-09-02T18:14:21Z"
+      "created_at": "2020-10-27T20:07:19Z",
+      "updated_at": "2020-10-27T20:07:21Z",
+      "expires_at": "2021-01-25T20:07:01Z"
     },
     {
-      "id": 16207164,
-      "node_id": "MDg6QXJ0aWZhY3QxNjIwNzE2NA==",
-      "name": "yay-armv6h.646aff57-beb7-4498-8f44-34e64ca249f7",
+      "id": 23510380,
+      "node_id": "MDg6QXJ0aWZhY3QyMzUxMDM4MA==",
+      "name": "yay-armv6h.300e8a7b-2393-4a74-8999-222b4ba79480",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207164",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207164/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510380",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510380/zip",
       "expired": false,
-      "created_at": "2020-09-02T18:14:20Z",
-      "updated_at": "2020-09-02T18:14:21Z"
+      "created_at": "2020-10-27T20:07:19Z",
+      "updated_at": "2020-10-27T20:07:21Z",
+      "expires_at": "2021-01-25T20:06:58Z"
     },
     {
-      "id": 16207165,
-      "node_id": "MDg6QXJ0aWZhY3QxNjIwNzE2NQ==",
+      "id": 23510381,
+      "node_id": "MDg6QXJ0aWZhY3QyMzUxMDM4MQ==",
       "name": "yay-armv6h.log",
-      "size_in_bytes": 14467,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207165",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207165/zip",
+      "size_in_bytes": 14713,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510381",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510381/zip",
       "expired": false,
-      "created_at": "2020-09-02T18:14:20Z",
-      "updated_at": "2020-09-02T18:14:21Z"
+      "created_at": "2020-10-27T20:07:19Z",
+      "updated_at": "2020-10-27T20:07:21Z",
+      "expires_at": "2021-01-25T20:07:08Z"
     },
     {
-      "id": 16207166,
-      "node_id": "MDg6QXJ0aWZhY3QxNjIwNzE2Ng==",
+      "id": 23510382,
+      "node_id": "MDg6QXJ0aWZhY3QyMzUxMDM4Mg==",
       "name": "yay-armv6h.patch",
-      "size_in_bytes": 1154,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207166",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/16207166/zip",
+      "size_in_bytes": 1266,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510382",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23510382/zip",
       "expired": false,
-      "created_at": "2020-09-02T18:14:20Z",
-      "updated_at": "2020-09-02T18:14:21Z"
+      "created_at": "2020-10-27T20:07:19Z",
+      "updated_at": "2020-10-27T20:07:21Z",
+      "expires_at": "2021-01-25T20:07:05Z"
     }
   ]
 }
