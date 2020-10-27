@@ -2,48 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 12132098,
-      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjA5OA==",
+      "id": 23476371,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ3NjM3MQ==",
       "name": "annie-armv7h",
-      "size_in_bytes": 6606332,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132098",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132098/zip",
+      "size_in_bytes": 2920603,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476371",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476371/zip",
       "expired": false,
-      "created_at": "2020-07-25T05:31:18Z",
-      "updated_at": "2020-07-25T05:31:19Z"
+      "created_at": "2020-10-27T16:29:19Z",
+      "updated_at": "2020-10-27T16:29:20Z",
+      "expires_at": "2021-01-25T16:28:58Z"
     },
     {
-      "id": 12132099,
-      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjA5OQ==",
-      "name": "annie-armv7h.99be2a8a-9e0c-4b85-bbb0-af289cb1eea3",
+      "id": 23476372,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ3NjM3Mg==",
+      "name": "annie-armv7h.fcd3a052-93bf-4506-9541-66cea18e8836",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132099",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132099/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476372",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476372/zip",
       "expired": false,
-      "created_at": "2020-07-25T05:31:18Z",
-      "updated_at": "2020-07-25T05:31:19Z"
+      "created_at": "2020-10-27T16:29:19Z",
+      "updated_at": "2020-10-27T16:29:20Z",
+      "expires_at": "2021-01-25T16:28:55Z"
     },
     {
-      "id": 12132100,
-      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjEwMA==",
+      "id": 23476373,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ3NjM3Mw==",
       "name": "annie-armv7h.log",
-      "size_in_bytes": 47768,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132100",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132100/zip",
+      "size_in_bytes": 21333,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476373",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476373/zip",
       "expired": false,
-      "created_at": "2020-07-25T05:31:18Z",
-      "updated_at": "2020-07-25T05:31:19Z"
+      "created_at": "2020-10-27T16:29:19Z",
+      "updated_at": "2020-10-27T16:29:20Z",
+      "expires_at": "2021-01-25T16:29:05Z"
     },
     {
-      "id": 12132101,
-      "node_id": "MDg6QXJ0aWZhY3QxMjEzMjEwMQ==",
+      "id": 23476374,
+      "node_id": "MDg6QXJ0aWZhY3QyMzQ3NjM3NA==",
       "name": "annie-armv7h.patch",
-      "size_in_bytes": 1051,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132101",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/12132101/zip",
+      "size_in_bytes": 2652,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476374",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23476374/zip",
       "expired": false,
-      "created_at": "2020-07-25T05:31:18Z",
-      "updated_at": "2020-07-25T05:31:19Z"
+      "created_at": "2020-10-27T16:29:19Z",
+      "updated_at": "2020-10-27T16:29:20Z",
+      "expires_at": "2021-01-25T16:29:02Z"
     }
   ]
 }
