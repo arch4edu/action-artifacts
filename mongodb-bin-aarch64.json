@@ -2,48 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 17516158,
-      "node_id": "MDg6QXJ0aWZhY3QxNzUxNjE1OA==",
+      "id": 30456941,
+      "node_id": "MDg6QXJ0aWZhY3QzMDQ1Njk0MQ==",
       "name": "mongodb-bin-aarch64",
-      "size_in_bytes": 46780692,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516158",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516158/zip",
+      "size_in_bytes": 46810214,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456941",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456941/zip",
       "expired": false,
-      "created_at": "2020-09-14T17:57:05Z",
-      "updated_at": "2020-09-14T17:57:06Z"
+      "created_at": "2020-12-10T16:55:43Z",
+      "updated_at": "2020-12-10T16:55:44Z",
+      "expires_at": "2021-03-10T16:54:53Z"
     },
     {
-      "id": 17516159,
-      "node_id": "MDg6QXJ0aWZhY3QxNzUxNjE1OQ==",
-      "name": "mongodb-bin-aarch64.a7cde149-31d8-4011-a817-37ebb0fbab69",
+      "id": 30456942,
+      "node_id": "MDg6QXJ0aWZhY3QzMDQ1Njk0Mg==",
+      "name": "mongodb-bin-aarch64.c8b7e304-67d6-47a9-ba2e-7aabdbf605ad",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516159",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516159/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456942",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456942/zip",
       "expired": false,
-      "created_at": "2020-09-14T17:57:05Z",
-      "updated_at": "2020-09-14T17:57:06Z"
+      "created_at": "2020-12-10T16:55:43Z",
+      "updated_at": "2020-12-10T16:55:44Z",
+      "expires_at": "2021-03-10T16:54:50Z"
     },
     {
-      "id": 17516160,
-      "node_id": "MDg6QXJ0aWZhY3QxNzUxNjE2MA==",
+      "id": 30456943,
+      "node_id": "MDg6QXJ0aWZhY3QzMDQ1Njk0Mw==",
       "name": "mongodb-bin-aarch64.log",
-      "size_in_bytes": 16787,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516160",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516160/zip",
+      "size_in_bytes": 32401,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456943",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456943/zip",
       "expired": false,
-      "created_at": "2020-09-14T17:57:05Z",
-      "updated_at": "2020-09-14T17:57:06Z"
+      "created_at": "2020-12-10T16:55:43Z",
+      "updated_at": "2020-12-10T16:55:44Z",
+      "expires_at": "2021-03-10T16:55:32Z"
     },
     {
-      "id": 17516161,
-      "node_id": "MDg6QXJ0aWZhY3QxNzUxNjE2MQ==",
+      "id": 30456944,
+      "node_id": "MDg6QXJ0aWZhY3QzMDQ1Njk0NA==",
       "name": "mongodb-bin-aarch64.patch",
-      "size_in_bytes": 2641,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516161",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/17516161/zip",
+      "size_in_bytes": 5227,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456944",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/30456944/zip",
       "expired": false,
-      "created_at": "2020-09-14T17:57:05Z",
-      "updated_at": "2020-09-14T17:57:06Z"
+      "created_at": "2020-12-10T16:55:43Z",
+      "updated_at": "2020-12-10T16:55:44Z",
+      "expires_at": "2021-03-10T16:55:30Z"
     }
   ]
 }
