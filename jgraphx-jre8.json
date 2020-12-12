@@ -1,0 +1,53 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 30779185,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTE4NQ==",
+      "name": "jgraphx-jre8",
+      "size_in_bytes": 550592,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779185",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779185/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:44:41Z",
+      "updated_at": "2020-12-12T16:44:42Z",
+      "expires_at": "2021-03-12T16:44:21Z"
+    },
+    {
+      "id": 30779186,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTE4Ng==",
+      "name": "jgraphx-jre8.4157c4ae-7361-497f-a622-93194318f86f",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779186",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779186/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:44:41Z",
+      "updated_at": "2020-12-12T16:44:42Z",
+      "expires_at": "2021-03-12T16:44:20Z"
+    },
+    {
+      "id": 30779187,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTE4Nw==",
+      "name": "jgraphx-jre8.log",
+      "size_in_bytes": 353223,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779187",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779187/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:44:41Z",
+      "updated_at": "2020-12-12T16:44:42Z",
+      "expires_at": "2021-03-12T16:44:22Z"
+    },
+    {
+      "id": 30779188,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTE4OA==",
+      "name": "jgraphx-jre8.patch",
+      "size_in_bytes": 4335,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779188",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779188/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:44:41Z",
+      "updated_at": "2020-12-12T16:44:42Z",
+      "expires_at": "2021-03-12T16:44:22Z"
+    }
+  ]
+}
