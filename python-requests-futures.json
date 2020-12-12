@@ -1,0 +1,53 @@
+{
+  "total_count": 4,
+  "artifacts": [
+    {
+      "id": 30779432,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTQzMg==",
+      "name": "python-requests-futures",
+      "size_in_bytes": 11083,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779432",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779432/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:49:31Z",
+      "updated_at": "2020-12-12T16:49:32Z",
+      "expires_at": "2021-03-12T16:49:09Z"
+    },
+    {
+      "id": 30779433,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTQzMw==",
+      "name": "python-requests-futures.deee1510-a761-4fcb-a62c-fa6b1f138b05",
+      "size_in_bytes": 10,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779433",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779433/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:49:31Z",
+      "updated_at": "2020-12-12T16:49:32Z",
+      "expires_at": "2021-03-12T16:49:08Z"
+    },
+    {
+      "id": 30779434,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTQzNA==",
+      "name": "python-requests-futures.log",
+      "size_in_bytes": 16878,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779434",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779434/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:49:31Z",
+      "updated_at": "2020-12-12T16:49:32Z",
+      "expires_at": "2021-03-12T16:49:11Z"
+    },
+    {
+      "id": 30779435,
+      "node_id": "MDg6QXJ0aWZhY3QzMDc3OTQzNQ==",
+      "name": "python-requests-futures.patch",
+      "size_in_bytes": 1529,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779435",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/30779435/zip",
+      "expired": false,
+      "created_at": "2020-12-12T16:49:31Z",
+      "updated_at": "2020-12-12T16:49:32Z",
+      "expires_at": "2021-03-12T16:49:10Z"
+    }
+  ]
+}
