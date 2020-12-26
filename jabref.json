@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 21318663,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMxODY2Mw==",
+      "id": 32730427,
+      "node_id": "MDg6QXJ0aWZhY3QzMjczMDQyNw==",
       "name": "jabref",
-      "size_in_bytes": 127318499,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318663",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318663/zip",
+      "size_in_bytes": 140499063,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730427",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730427/zip",
       "expired": false,
-      "created_at": "2020-10-13T06:10:40Z",
-      "updated_at": "2020-10-13T06:10:42Z",
-      "expires_at": "2021-01-11T06:09:45Z"
+      "created_at": "2020-12-26T21:29:49Z",
+      "updated_at": "2020-12-26T21:29:50Z",
+      "expires_at": "2021-03-26T21:28:51Z"
     },
     {
-      "id": 21318664,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMxODY2NA==",
-      "name": "jabref.e50246f0-b910-4e3f-8aac-f7e877a3d843",
+      "id": 32730428,
+      "node_id": "MDg6QXJ0aWZhY3QzMjczMDQyOA==",
+      "name": "jabref.dc862d0d-bd52-4147-86ad-625c2748f18d",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318664",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318664/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730428",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730428/zip",
       "expired": false,
-      "created_at": "2020-10-13T06:10:40Z",
-      "updated_at": "2020-10-13T06:10:42Z",
-      "expires_at": "2021-01-11T06:09:44Z"
+      "created_at": "2020-12-26T21:29:49Z",
+      "updated_at": "2020-12-26T21:29:50Z",
+      "expires_at": "2021-03-26T21:28:51Z"
     },
     {
-      "id": 21318665,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMxODY2NQ==",
+      "id": 32730429,
+      "node_id": "MDg6QXJ0aWZhY3QzMjczMDQyOQ==",
       "name": "jabref.log",
-      "size_in_bytes": 31709,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318665",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318665/zip",
+      "size_in_bytes": 34328,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730429",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730429/zip",
       "expired": false,
-      "created_at": "2020-10-13T06:10:40Z",
-      "updated_at": "2020-10-13T06:10:42Z",
-      "expires_at": "2021-01-11T06:10:19Z"
+      "created_at": "2020-12-26T21:29:49Z",
+      "updated_at": "2020-12-26T21:29:50Z",
+      "expires_at": "2021-03-26T21:29:32Z"
     },
     {
-      "id": 21318666,
-      "node_id": "MDg6QXJ0aWZhY3QyMTMxODY2Ng==",
+      "id": 32730430,
+      "node_id": "MDg6QXJ0aWZhY3QzMjczMDQzMA==",
       "name": "jabref.patch",
-      "size_in_bytes": 4344,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318666",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/21318666/zip",
+      "size_in_bytes": 7191,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730430",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/32730430/zip",
       "expired": false,
-      "created_at": "2020-10-13T06:10:40Z",
-      "updated_at": "2020-10-13T06:10:42Z",
-      "expires_at": "2021-01-11T06:10:18Z"
+      "created_at": "2020-12-26T21:29:49Z",
+      "updated_at": "2020-12-26T21:29:50Z",
+      "expires_at": "2021-03-26T21:29:31Z"
     }
   ]
 }
