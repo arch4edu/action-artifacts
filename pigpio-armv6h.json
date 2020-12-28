@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 23481036,
-      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTAzNg==",
+      "id": 32877440,
+      "node_id": "MDg6QXJ0aWZhY3QzMjg3NzQ0MA==",
       "name": "pigpio-armv6h",
-      "size_in_bytes": 354949,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481036",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481036/zip",
+      "size_in_bytes": 354917,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877440",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877440/zip",
       "expired": false,
-      "created_at": "2020-10-27T16:55:04Z",
-      "updated_at": "2020-10-27T16:55:06Z",
-      "expires_at": "2021-01-25T16:54:44Z"
+      "created_at": "2020-12-28T16:24:26Z",
+      "updated_at": "2020-12-28T16:24:27Z",
+      "expires_at": "2021-03-28T16:24:09Z"
     },
     {
-      "id": 23481037,
-      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTAzNw==",
-      "name": "pigpio-armv6h.92e8c1ba-cf41-4acc-a31d-e33b933cf4cf",
+      "id": 32877441,
+      "node_id": "MDg6QXJ0aWZhY3QzMjg3NzQ0MQ==",
+      "name": "pigpio-armv6h.a1d2ff21-6230-4389-bdd4-38a0da9da1e4",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481037",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481037/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877441",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877441/zip",
       "expired": false,
-      "created_at": "2020-10-27T16:55:04Z",
-      "updated_at": "2020-10-27T16:55:06Z",
-      "expires_at": "2021-01-25T16:54:41Z"
+      "created_at": "2020-12-28T16:24:26Z",
+      "updated_at": "2020-12-28T16:24:27Z",
+      "expires_at": "2021-03-28T16:24:07Z"
     },
     {
-      "id": 23481038,
-      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTAzOA==",
+      "id": 32877442,
+      "node_id": "MDg6QXJ0aWZhY3QzMjg3NzQ0Mg==",
       "name": "pigpio-armv6h.log",
-      "size_in_bytes": 12143,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481038",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481038/zip",
+      "size_in_bytes": 13312,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877442",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877442/zip",
       "expired": false,
-      "created_at": "2020-10-27T16:55:04Z",
-      "updated_at": "2020-10-27T16:55:06Z",
-      "expires_at": "2021-01-25T16:54:51Z"
+      "created_at": "2020-12-28T16:24:26Z",
+      "updated_at": "2020-12-28T16:24:27Z",
+      "expires_at": "2021-03-28T16:24:15Z"
     },
     {
-      "id": 23481039,
-      "node_id": "MDg6QXJ0aWZhY3QyMzQ4MTAzOQ==",
+      "id": 32877443,
+      "node_id": "MDg6QXJ0aWZhY3QzMjg3NzQ0Mw==",
       "name": "pigpio-armv6h.patch",
-      "size_in_bytes": 1056,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481039",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/23481039/zip",
+      "size_in_bytes": 677,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877443",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/32877443/zip",
       "expired": false,
-      "created_at": "2020-10-27T16:55:04Z",
-      "updated_at": "2020-10-27T16:55:06Z",
-      "expires_at": "2021-01-25T16:54:48Z"
+      "created_at": "2020-12-28T16:24:26Z",
+      "updated_at": "2020-12-28T16:24:27Z",
+      "expires_at": "2021-03-28T16:24:12Z"
     }
   ]
 }
