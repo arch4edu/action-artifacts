@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 55719507,
-      "node_id": "MDg6QXJ0aWZhY3Q1NTcxOTUwNw==",
+      "id": 63568966,
+      "node_id": "MDg6QXJ0aWZhY3Q2MzU2ODk2Ng==",
       "name": "kiwiirc",
-      "size_in_bytes": 1848102,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719507",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719507/zip",
+      "size_in_bytes": 1837961,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568966",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568966/zip",
       "expired": false,
-      "created_at": "2021-04-22T16:17:38Z",
-      "updated_at": "2021-04-22T16:17:39Z",
-      "expires_at": "2021-07-21T16:17:18Z"
+      "created_at": "2021-05-27T16:18:07Z",
+      "updated_at": "2021-05-27T16:18:08Z",
+      "expires_at": "2021-08-25T16:17:25Z"
     },
     {
-      "id": 55719508,
-      "node_id": "MDg6QXJ0aWZhY3Q1NTcxOTUwOA==",
-      "name": "kiwiirc.1fc05ac4-fbe6-4568-ab33-2e4e7e8194c6",
+      "id": 63568967,
+      "node_id": "MDg6QXJ0aWZhY3Q2MzU2ODk2Nw==",
+      "name": "kiwiirc.c982639a-ee8d-49c4-b8d2-db14bd629643",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719508",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719508/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568967",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568967/zip",
       "expired": false,
-      "created_at": "2021-04-22T16:17:38Z",
-      "updated_at": "2021-04-22T16:17:39Z",
-      "expires_at": "2021-07-21T16:17:17Z"
+      "created_at": "2021-05-27T16:18:07Z",
+      "updated_at": "2021-05-27T16:18:08Z",
+      "expires_at": "2021-08-25T16:17:24Z"
     },
     {
-      "id": 55719509,
-      "node_id": "MDg6QXJ0aWZhY3Q1NTcxOTUwOQ==",
+      "id": 63568968,
+      "node_id": "MDg6QXJ0aWZhY3Q2MzU2ODk2OA==",
       "name": "kiwiirc.log",
-      "size_in_bytes": 16748,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719509",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719509/zip",
+      "size_in_bytes": 16823,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568968",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568968/zip",
       "expired": false,
-      "created_at": "2021-04-22T16:17:38Z",
-      "updated_at": "2021-04-22T16:17:39Z",
-      "expires_at": "2021-07-21T16:17:19Z"
+      "created_at": "2021-05-27T16:18:07Z",
+      "updated_at": "2021-05-27T16:18:08Z",
+      "expires_at": "2021-08-25T16:17:26Z"
     },
     {
-      "id": 55719510,
-      "node_id": "MDg6QXJ0aWZhY3Q1NTcxOTUxMA==",
+      "id": 63568969,
+      "node_id": "MDg6QXJ0aWZhY3Q2MzU2ODk2OQ==",
       "name": "kiwiirc.patch",
-      "size_in_bytes": 657,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719510",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/55719510/zip",
+      "size_in_bytes": 731,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568969",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/63568969/zip",
       "expired": false,
-      "created_at": "2021-04-22T16:17:38Z",
-      "updated_at": "2021-04-22T16:17:39Z",
-      "expires_at": "2021-07-21T16:17:18Z"
+      "created_at": "2021-05-27T16:18:07Z",
+      "updated_at": "2021-05-27T16:18:08Z",
+      "expires_at": "2021-08-25T16:17:25Z"
     }
   ]
 }
