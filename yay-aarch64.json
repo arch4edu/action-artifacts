@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 62711148,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcxMTE0OA==",
+      "id": 64532068,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzMjA2OA==",
       "name": "yay-aarch64",
-      "size_in_bytes": 2200504,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711148",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711148/zip",
+      "size_in_bytes": 2201669,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532068",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532068/zip",
       "expired": false,
-      "created_at": "2021-05-24T17:13:37Z",
-      "updated_at": "2021-05-24T17:13:38Z",
-      "expires_at": "2021-08-22T17:13:19Z"
+      "created_at": "2021-06-01T16:19:05Z",
+      "updated_at": "2021-06-01T16:19:06Z",
+      "expires_at": "2021-08-30T16:18:47Z"
     },
     {
-      "id": 62711149,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcxMTE0OQ==",
-      "name": "yay-aarch64.48d4f182-ba01-443d-849f-97f312a96911",
+      "id": 64532069,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzMjA2OQ==",
+      "name": "yay-aarch64.c0d91828-4620-4299-8189-16788094c603",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711149",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711149/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532069",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532069/zip",
       "expired": false,
-      "created_at": "2021-05-24T17:13:37Z",
-      "updated_at": "2021-05-24T17:13:38Z",
-      "expires_at": "2021-08-22T17:13:16Z"
+      "created_at": "2021-06-01T16:19:05Z",
+      "updated_at": "2021-06-01T16:19:06Z",
+      "expires_at": "2021-08-30T16:18:43Z"
     },
     {
-      "id": 62711150,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcxMTE1MA==",
+      "id": 64532070,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzMjA3MA==",
       "name": "yay-aarch64.log",
-      "size_in_bytes": 17517,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711150",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711150/zip",
+      "size_in_bytes": 28036,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532070",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532070/zip",
       "expired": false,
-      "created_at": "2021-05-24T17:13:37Z",
-      "updated_at": "2021-05-24T17:13:38Z",
-      "expires_at": "2021-08-22T17:13:27Z"
+      "created_at": "2021-06-01T16:19:05Z",
+      "updated_at": "2021-06-01T16:19:06Z",
+      "expires_at": "2021-08-30T16:18:54Z"
     },
     {
-      "id": 62711151,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcxMTE1MQ==",
+      "id": 64532071,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzMjA3MQ==",
       "name": "yay-aarch64.patch",
-      "size_in_bytes": 1400,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711151",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/62711151/zip",
+      "size_in_bytes": 715,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532071",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64532071/zip",
       "expired": false,
-      "created_at": "2021-05-24T17:13:37Z",
-      "updated_at": "2021-05-24T17:13:38Z",
-      "expires_at": "2021-08-22T17:13:24Z"
+      "created_at": "2021-06-01T16:19:05Z",
+      "updated_at": "2021-06-01T16:19:06Z",
+      "expires_at": "2021-08-30T16:18:51Z"
     }
   ]
 }
