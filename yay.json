@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 62700505,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcwMDUwNQ==",
+      "id": 64537350,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzNzM1MA==",
       "name": "yay",
-      "size_in_bytes": 2431942,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700505",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700505/zip",
+      "size_in_bytes": 2418982,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537350",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537350/zip",
       "expired": false,
-      "created_at": "2021-05-24T16:22:00Z",
-      "updated_at": "2021-05-24T16:22:01Z",
-      "expires_at": "2021-08-22T16:21:41Z"
+      "created_at": "2021-06-01T16:41:21Z",
+      "updated_at": "2021-06-01T16:41:22Z",
+      "expires_at": "2021-08-30T16:40:56Z"
     },
     {
-      "id": 62700506,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcwMDUwNg==",
-      "name": "yay.cc086b71-2a53-4959-b264-37566dfc031d",
+      "id": 64537351,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzNzM1MQ==",
+      "name": "yay.a0dbe263-e4ee-4c55-a7b6-963689d1f224",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700506",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700506/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537351",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537351/zip",
       "expired": false,
-      "created_at": "2021-05-24T16:22:00Z",
-      "updated_at": "2021-05-24T16:22:01Z",
-      "expires_at": "2021-08-22T16:21:41Z"
+      "created_at": "2021-06-01T16:41:21Z",
+      "updated_at": "2021-06-01T16:41:22Z",
+      "expires_at": "2021-08-30T16:40:55Z"
     },
     {
-      "id": 62700507,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcwMDUwNw==",
+      "id": 64537352,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzNzM1Mg==",
       "name": "yay.log",
-      "size_in_bytes": 25527,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700507",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700507/zip",
+      "size_in_bytes": 26321,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537352",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537352/zip",
       "expired": false,
-      "created_at": "2021-05-24T16:22:00Z",
-      "updated_at": "2021-05-24T16:22:01Z",
-      "expires_at": "2021-08-22T16:21:43Z"
+      "created_at": "2021-06-01T16:41:21Z",
+      "updated_at": "2021-06-01T16:41:22Z",
+      "expires_at": "2021-08-30T16:40:57Z"
     },
     {
-      "id": 62700508,
-      "node_id": "MDg6QXJ0aWZhY3Q2MjcwMDUwOA==",
+      "id": 64537353,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDUzNzM1Mw==",
       "name": "yay.patch",
-      "size_in_bytes": 1352,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700508",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/62700508/zip",
+      "size_in_bytes": 667,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537353",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/64537353/zip",
       "expired": false,
-      "created_at": "2021-05-24T16:22:00Z",
-      "updated_at": "2021-05-24T16:22:01Z",
-      "expires_at": "2021-08-22T16:21:42Z"
+      "created_at": "2021-06-01T16:41:21Z",
+      "updated_at": "2021-06-01T16:41:22Z",
+      "expires_at": "2021-08-30T16:40:57Z"
     }
   ]
 }
