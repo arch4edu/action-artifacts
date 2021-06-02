@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 59051706,
-      "node_id": "MDg6QXJ0aWZhY3Q1OTA1MTcwNg==",
+      "id": 64811342,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDgxMTM0Mg==",
       "name": "devtools-arch4edu-extra-armv7h",
-      "size_in_bytes": 6504,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051706",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051706/zip",
+      "size_in_bytes": 6647,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811342",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811342/zip",
       "expired": false,
-      "created_at": "2021-05-07T16:52:54Z",
-      "updated_at": "2021-05-07T16:52:55Z",
-      "expires_at": "2021-08-05T16:52:37Z"
+      "created_at": "2021-06-02T16:29:13Z",
+      "updated_at": "2021-06-02T16:29:14Z",
+      "expires_at": "2021-08-31T16:28:56Z"
     },
     {
-      "id": 59051707,
-      "node_id": "MDg6QXJ0aWZhY3Q1OTA1MTcwNw==",
-      "name": "devtools-arch4edu-extra-armv7h.e98d28a5-367e-4dba-9169-18541bc18e74",
+      "id": 64811343,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDgxMTM0Mw==",
+      "name": "devtools-arch4edu-extra-armv7h.5cdd953f-6c43-40d8-9264-65057371bcfb",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051707",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051707/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811343",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811343/zip",
       "expired": false,
-      "created_at": "2021-05-07T16:52:54Z",
-      "updated_at": "2021-05-07T16:52:55Z",
-      "expires_at": "2021-08-05T16:52:34Z"
+      "created_at": "2021-06-02T16:29:13Z",
+      "updated_at": "2021-06-02T16:29:14Z",
+      "expires_at": "2021-08-31T16:28:54Z"
     },
     {
-      "id": 59051708,
-      "node_id": "MDg6QXJ0aWZhY3Q1OTA1MTcwOA==",
+      "id": 64811344,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDgxMTM0NA==",
       "name": "devtools-arch4edu-extra-armv7h.log",
-      "size_in_bytes": 18091,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051708",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051708/zip",
+      "size_in_bytes": 23076,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811344",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811344/zip",
       "expired": false,
-      "created_at": "2021-05-07T16:52:54Z",
-      "updated_at": "2021-05-07T16:52:55Z",
-      "expires_at": "2021-08-05T16:52:43Z"
+      "created_at": "2021-06-02T16:29:13Z",
+      "updated_at": "2021-06-02T16:29:14Z",
+      "expires_at": "2021-08-31T16:29:01Z"
     },
     {
-      "id": 59051709,
-      "node_id": "MDg6QXJ0aWZhY3Q1OTA1MTcwOQ==",
+      "id": 64811345,
+      "node_id": "MDg6QXJ0aWZhY3Q2NDgxMTM0NQ==",
       "name": "devtools-arch4edu-extra-armv7h.patch",
       "size_in_bytes": 745,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051709",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/59051709/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811345",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/64811345/zip",
       "expired": false,
-      "created_at": "2021-05-07T16:52:54Z",
-      "updated_at": "2021-05-07T16:52:55Z",
-      "expires_at": "2021-08-05T16:52:40Z"
+      "created_at": "2021-06-02T16:29:13Z",
+      "updated_at": "2021-06-02T16:29:14Z",
+      "expires_at": "2021-08-31T16:28:59Z"
     }
   ]
 }
