@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 60411452,
-      "node_id": "MDg6QXJ0aWZhY3Q2MDQxMTQ1Mg==",
+      "id": 67551321,
+      "node_id": "MDg6QXJ0aWZhY3Q2NzU1MTMyMQ==",
       "name": "act",
-      "size_in_bytes": 5130496,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411452",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411452/zip",
+      "size_in_bytes": 5113635,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551321",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551321/zip",
       "expired": false,
-      "created_at": "2021-05-13T16:24:22Z",
-      "updated_at": "2021-05-13T16:24:23Z",
-      "expires_at": "2021-08-11T16:24:00Z"
+      "created_at": "2021-06-14T16:25:27Z",
+      "updated_at": "2021-06-14T16:25:27Z",
+      "expires_at": "2021-09-12T16:25:09Z"
     },
     {
-      "id": 60411453,
-      "node_id": "MDg6QXJ0aWZhY3Q2MDQxMTQ1Mw==",
-      "name": "act.685d44ed-b046-4acc-8848-17f6f907094d",
+      "id": 67551322,
+      "node_id": "MDg6QXJ0aWZhY3Q2NzU1MTMyMg==",
+      "name": "act.c7251892-43c6-4ff6-b5ce-8c0e08f7a0a7",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411453",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411453/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551322",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551322/zip",
       "expired": false,
-      "created_at": "2021-05-13T16:24:22Z",
-      "updated_at": "2021-05-13T16:24:23Z",
-      "expires_at": "2021-08-11T16:23:59Z"
+      "created_at": "2021-06-14T16:25:27Z",
+      "updated_at": "2021-06-14T16:25:27Z",
+      "expires_at": "2021-09-12T16:25:08Z"
     },
     {
-      "id": 60411454,
-      "node_id": "MDg6QXJ0aWZhY3Q2MDQxMTQ1NA==",
+      "id": 67551323,
+      "node_id": "MDg6QXJ0aWZhY3Q2NzU1MTMyMw==",
       "name": "act.log",
-      "size_in_bytes": 31328,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411454",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411454/zip",
+      "size_in_bytes": 28045,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551323",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551323/zip",
       "expired": false,
-      "created_at": "2021-05-13T16:24:22Z",
-      "updated_at": "2021-05-13T16:24:23Z",
-      "expires_at": "2021-08-11T16:24:02Z"
+      "created_at": "2021-06-14T16:25:27Z",
+      "updated_at": "2021-06-14T16:25:27Z",
+      "expires_at": "2021-09-12T16:25:10Z"
     },
     {
-      "id": 60411455,
-      "node_id": "MDg6QXJ0aWZhY3Q2MDQxMTQ1NQ==",
+      "id": 67551324,
+      "node_id": "MDg6QXJ0aWZhY3Q2NzU1MTMyNA==",
       "name": "act.patch",
       "size_in_bytes": 934,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411455",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/60411455/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551324",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/67551324/zip",
       "expired": false,
-      "created_at": "2021-05-13T16:24:22Z",
-      "updated_at": "2021-05-13T16:24:23Z",
-      "expires_at": "2021-08-11T16:24:01Z"
+      "created_at": "2021-06-14T16:25:27Z",
+      "updated_at": "2021-06-14T16:25:27Z",
+      "expires_at": "2021-09-12T16:25:10Z"
     }
   ]
 }
