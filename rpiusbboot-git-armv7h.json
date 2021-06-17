@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 50256242,
-      "node_id": "MDg6QXJ0aWZhY3Q1MDI1NjI0Mg==",
+      "id": 68476606,
+      "node_id": "MDg6QXJ0aWZhY3Q2ODQ3NjYwNg==",
       "name": "rpiusbboot-git-armv7h",
-      "size_in_bytes": 300620,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256242",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256242/zip",
+      "size_in_bytes": 298773,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476606",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476606/zip",
       "expired": false,
-      "created_at": "2021-03-29T16:45:19Z",
-      "updated_at": "2021-03-29T16:45:21Z",
-      "expires_at": "2021-06-27T16:45:02Z"
+      "created_at": "2021-06-17T16:17:52Z",
+      "updated_at": "2021-06-17T16:17:53Z",
+      "expires_at": "2021-09-15T16:17:35Z"
     },
     {
-      "id": 50256243,
-      "node_id": "MDg6QXJ0aWZhY3Q1MDI1NjI0Mw==",
-      "name": "rpiusbboot-git-armv7h.a66a6d5d-6984-4fc6-9323-ebd85014dd24",
+      "id": 68476607,
+      "node_id": "MDg6QXJ0aWZhY3Q2ODQ3NjYwNw==",
+      "name": "rpiusbboot-git-armv7h.23b8fbba-0fb4-4715-b414-74ca7d8098ca",
       "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256243",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256243/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476607",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476607/zip",
       "expired": false,
-      "created_at": "2021-03-29T16:45:19Z",
-      "updated_at": "2021-03-29T16:45:21Z",
-      "expires_at": "2021-06-27T16:45:00Z"
+      "created_at": "2021-06-17T16:17:52Z",
+      "updated_at": "2021-06-17T16:17:53Z",
+      "expires_at": "2021-09-15T16:17:32Z"
     },
     {
-      "id": 50256245,
-      "node_id": "MDg6QXJ0aWZhY3Q1MDI1NjI0NQ==",
+      "id": 68476608,
+      "node_id": "MDg6QXJ0aWZhY3Q2ODQ3NjYwOA==",
       "name": "rpiusbboot-git-armv7h.log",
-      "size_in_bytes": 23286,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256245",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256245/zip",
+      "size_in_bytes": 38949,
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476608",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476608/zip",
       "expired": false,
-      "created_at": "2021-03-29T16:45:19Z",
-      "updated_at": "2021-03-29T16:45:21Z",
-      "expires_at": "2021-06-27T16:45:08Z"
+      "created_at": "2021-06-17T16:17:52Z",
+      "updated_at": "2021-06-17T16:17:53Z",
+      "expires_at": "2021-09-15T16:17:41Z"
     },
     {
-      "id": 50256246,
-      "node_id": "MDg6QXJ0aWZhY3Q1MDI1NjI0Ng==",
+      "id": 68476609,
+      "node_id": "MDg6QXJ0aWZhY3Q2ODQ3NjYwOQ==",
       "name": "rpiusbboot-git-armv7h.patch",
       "size_in_bytes": 671,
-      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256246",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/50256246/zip",
+      "url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476609",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-aarch64/actions/artifacts/68476609/zip",
       "expired": false,
-      "created_at": "2021-03-29T16:45:19Z",
-      "updated_at": "2021-03-29T16:45:21Z",
-      "expires_at": "2021-06-27T16:45:06Z"
+      "created_at": "2021-06-17T16:17:52Z",
+      "updated_at": "2021-06-17T16:17:53Z",
+      "expires_at": "2021-09-15T16:17:39Z"
     }
   ]
 }
