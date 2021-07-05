@@ -2,52 +2,52 @@
   "total_count": 4,
   "artifacts": [
     {
-      "id": 70497231,
-      "node_id": "MDg6QXJ0aWZhY3Q3MDQ5NzIzMQ==",
+      "id": 72771330,
+      "node_id": "MDg6QXJ0aWZhY3Q3Mjc3MTMzMA==",
       "name": "kiwiirc",
-      "size_in_bytes": 1838811,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497231",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497231/zip",
+      "size_in_bytes": 1839531,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771330",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771330/zip",
       "expired": false,
-      "created_at": "2021-06-25T16:35:35Z",
-      "updated_at": "2021-06-25T16:35:36Z",
-      "expires_at": "2021-09-23T16:35:15Z"
+      "created_at": "2021-07-05T17:09:45Z",
+      "updated_at": "2021-07-05T17:09:46Z",
+      "expires_at": "2021-10-03T17:09:28Z"
     },
     {
-      "id": 70497232,
-      "node_id": "MDg6QXJ0aWZhY3Q3MDQ5NzIzMg==",
-      "name": "kiwiirc.afc0a3a2-777e-4ce5-a724-6beaab57163c",
-      "size_in_bytes": 10,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497232",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497232/zip",
+      "id": 72771331,
+      "node_id": "MDg6QXJ0aWZhY3Q3Mjc3MTMzMQ==",
+      "name": "kiwiirc.fa44da0d-5942-450f-b9db-5881c83f538e",
+      "size_in_bytes": 11,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771331",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771331/zip",
       "expired": false,
-      "created_at": "2021-06-25T16:35:35Z",
-      "updated_at": "2021-06-25T16:35:36Z",
-      "expires_at": "2021-09-23T16:35:14Z"
+      "created_at": "2021-07-05T17:09:45Z",
+      "updated_at": "2021-07-05T17:09:46Z",
+      "expires_at": "2021-10-03T17:09:28Z"
     },
     {
-      "id": 70497233,
-      "node_id": "MDg6QXJ0aWZhY3Q3MDQ5NzIzMw==",
+      "id": 72771332,
+      "node_id": "MDg6QXJ0aWZhY3Q3Mjc3MTMzMg==",
       "name": "kiwiirc.log",
-      "size_in_bytes": 17848,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497233",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497233/zip",
+      "size_in_bytes": 17456,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771332",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771332/zip",
       "expired": false,
-      "created_at": "2021-06-25T16:35:35Z",
-      "updated_at": "2021-06-25T16:35:36Z",
-      "expires_at": "2021-09-23T16:35:16Z"
+      "created_at": "2021-07-05T17:09:45Z",
+      "updated_at": "2021-07-05T17:09:46Z",
+      "expires_at": "2021-10-03T17:09:30Z"
     },
     {
-      "id": 70497234,
-      "node_id": "MDg6QXJ0aWZhY3Q3MDQ5NzIzNA==",
+      "id": 72771333,
+      "node_id": "MDg6QXJ0aWZhY3Q3Mjc3MTMzMw==",
       "name": "kiwiirc.patch",
-      "size_in_bytes": 689,
-      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497234",
-      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/70497234/zip",
+      "size_in_bytes": 688,
+      "url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771333",
+      "archive_download_url": "https://api.github.com/repos/petronny/action-runner-x86_64/actions/artifacts/72771333/zip",
       "expired": false,
-      "created_at": "2021-06-25T16:35:35Z",
-      "updated_at": "2021-06-25T16:35:36Z",
-      "expires_at": "2021-09-23T16:35:16Z"
+      "created_at": "2021-07-05T17:09:45Z",
+      "updated_at": "2021-07-05T17:09:46Z",
+      "expires_at": "2021-10-03T17:09:29Z"
     }
   ]
 }
